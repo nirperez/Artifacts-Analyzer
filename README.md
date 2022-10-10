@@ -3,8 +3,10 @@
 A script that can read HDDs/ Memory.
 
 Use Bulk for both memory and HDD
+
 Use Foremost both memory and HDD
-Strings only only over MEMORY
+
+Strings only over MEMORY
 
  Display a menu for the user that will print the following options:
  
