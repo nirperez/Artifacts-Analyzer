@@ -1,9 +1,9 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 #!/bin/bash
 
-########################### Welcom to the Artifacts Analyzer by King NIR-PEREZ  #####################
+########################### Welcom to the Artifacts Analyzer by NIR-PEREZ  #####################
 
-echo " Welcome to the Artifacts Analyzer by King NIR-PEREZ "
+echo " Welcome to the Artifacts Analyzer by NIR-PEREZ "
 sleep 2
 echo " plese enter one file at the time "
 sleep 2
